@@ -1,6 +1,8 @@
 package clase6;
 import org.junit.Test;
 import static org.junit.Assert.*;
+import org.junit.*;
+import org.junit.jupiter.api.Assertions;
 
 public class TestCalculadora {
 
